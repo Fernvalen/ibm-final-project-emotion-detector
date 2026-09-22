@@ -1,2 +1,2 @@
 # Repository for final project
-ibm-final-project-emotion-detector
+Final project:ibm-final-project-emotion-detector
